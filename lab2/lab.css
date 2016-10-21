@@ -1,0 +1,56 @@
+
+Body {
+	background-image:url("http://kgau.ru/istiki/study/labs/journal/basic.css");
+	margin-left:10%;
+	margin-right:10%;
+}
+#container{
+ background-color:whrite;
+ border:5px red solid;
+}
+.date{
+	border:5px purple solid;
+}
+
+
+.entry {
+border: 5px blue solid;
+padding:5px;
+background-color:#E8FBFB;
+margin-top:10px;
+}
+#header{
+	border:5px red solid;
+}
+Body{
+	background-image:url("background.gif");
+	margin-left:10%;
+	margin-right:10%;
+}
+#container{
+	background-color:whrite;
+border:5px greed solid;
+}
+.date{
+	border:5px purple solid;
+}
+.entry {
+	border:5px blue solid;
+	padding:5px;
+	background-color:#E8FBFB;
+	margin-top:10px;
+	text-align:justify;
+}
+.entry img{
+	float:right;
+}
+.date{
+	border-bottom-style:dashed;
+	border-bottom-width:2px;
+}
+#header{
+	background-color:A8F0F0
+}
+#header h2{
+	border: 5px orange solid;
+}
